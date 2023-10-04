@@ -1,8 +1,7 @@
+# "Hello World" 
 
-# 📇 "Hello World" 
 
-
-## Meu nome é Isis 👋 Seja bem-vindo(a)! 👏 
+## Meu nome é Isis 👋 Seja bem-vindo(a)! 
 
 
 ### Sobre mim 📢
