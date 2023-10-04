@@ -27,10 +27,19 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### Cursos realizados 📚
+### Cursos e Certificados 📚
 
-![JAVASCRIPT](https://img.shields.io/badge/-DDS%20Cubos%20Academy-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&link=https://cubos.academy/)
-![DBE Cubos Academy](https://img.shields.io/badge/-DBE%20Cubos%20Academy-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&link=https://cubos.academy/)
+
+<div>
+   <a href="https://drive.google.com/file/d/1q2woQtLXkk5UqMBt1ajA0rNvPF-nuxi1/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/js%20básico-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>   
+   <a href="https://drive.google.com/file/d/1Yt2nPTutXxYUrOnrpwSrCnrW4P0UhV16/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/js%20avançado-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>   
+   <a href="https://www.cursoemvideo.com/curso/javascript/" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>  
+   <a href="https://www.cursoemvideo.com/curso/curso-de-git-e-github/" target="_blank"><img src="https://img.shields.io/badge/git%20e%20github-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>  
+   <a href="https://drive.google.com/file/d/1LfMvyYh-BNDzGyIrC1WVCb7hIpb9eGo1/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/lógica%20de%20programação-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>   
+   <a href="https://drive.google.com/file/d/1v7ZK0A44ML0O5LTgeAc0ishR2GVx3vwr/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/poo-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>   
+   <a href="https://drive.google.com/file/d/1-it1vkNbFPgrWPBBxLj7eWMouoT4hqVA/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/discover-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>   
+   <a href="https://www.udemy.com/cart/subscribe/course/2572054/" target="_blank"><img src="https://img.shields.io/badge/sql-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>
+</div>
 
 <!--
 Substitua o usuário lbguilherme pelo seu usuário no GitHub.
