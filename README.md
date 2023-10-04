@@ -1,21 +1,23 @@
 
-# "Hello World"
-
-## Meu nome é Isis 👋 Seja bem-vindo(a)!
+# 📇 "Hello World" 
 
 
-### Sobre mim
+## Meu nome é Isis 👋 Seja bem-vindo(a)! 👏 
+
+
+### Sobre mim 📢
+
 
 💻 Sou desenvolvedora Front-End
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade IMPACTA de Tecnologia
 
-🔎 Atualmente em transição de carreira para a área de Tecnologia, mas antes fui Bióloga e Naturopata.
+🚀 Atualmente em transição de carreira para a área de Tecnologia, mas antes fui Bióloga e Naturopata.
 
-💡 Em meu tempo livre gosto de viajar, estar com a família, amigos, e ouvir música.
+⏳ Em meu tempo livre gosto de viajar, estar com a família, amigos, e ouvir música.
    
 
-**Tecnologias e Ferramentas**
+**Tecnologias e Ferramentas**  📌
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,29 +43,25 @@
    <a href="https://www.udemy.com/cart/subscribe/course/2572054/" target="_blank"><img src="https://img.shields.io/badge/sql-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>
 </div>
 
-<!--
-Substitua o usuário lbguilherme pelo seu usuário no GitHub.
--->
 
-### GitHub Stats ⚡
+### GitHub Stats  ⚡ 
+
 <div>
 <a href="https://github.com/isisgoncalves">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isisgoncalves&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isisgoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Entre em contato comigo! 📭
+### Entre em contato comigo 📫
 <div>
-<a href="https://www.youtube.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/isisgoncalves-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:isisvow@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=Gmail&Color=black" target="_blank"></a> 
 </div>
 
 
+### Créditos 💡
 
-Esse template foi feito por <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨
 
-<!--
-**academy-readme-template** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[Cubos Academy](https://cubos.academy) - [Alura](https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github) - [GitHub Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/) - [Oscar Junior](https://github.com/oscarlojr)
+
+  
