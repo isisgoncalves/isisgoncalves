@@ -47,8 +47,8 @@
 
 <div>
 <a href="https://github.com/isisgoncalves">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isisgoncalves&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isisgoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-isisgoncalves-projects.vercel.app//api/top-langs/?username=isisgoncalves&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-isisgoncalves-projects.vercel.app//api?username=isisgoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 </br>
