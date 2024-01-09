@@ -6,7 +6,7 @@
 
 ### Sobre mim 📢
 
-💻 Sou desenvolvedora Front-End
+💻 Sou desenvolvedora
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade IMPACTA de Tecnologia
 
