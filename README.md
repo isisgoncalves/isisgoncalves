@@ -41,6 +41,11 @@
    <a href="https://drive.google.com/file/d/1v7ZK0A44ML0O5LTgeAc0ishR2GVx3vwr/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/poo-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>   
    <a href="https://drive.google.com/file/d/1-it1vkNbFPgrWPBBxLj7eWMouoT4hqVA/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/discover-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>   
    <a href="https://www.udemy.com/cart/subscribe/course/2572054/" target="_blank"><img src="https://img.shields.io/badge/sql-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>
+   <a href="https://drive.google.com/file/d/1PkEqG9lFVuegdFPMTLU_U357uQMHvRHc/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/bootcamp-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>
+   <a href="https://drive.google.com/file/d/1jjS7qE5CVLL8wedhL7KzQWjJE43RsoM3/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/.net-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>
+   <a href="https://drive.google.com/file/d/1j6eneF4YvdBXuVH_YuWZcL2grw0xu5eA/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/c#-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>
+   <a href="https://drive.google.com/file/d/1SPEacmLj0y8DfvMGTmyKRtgRLm1TuzvN/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/teste%20unitario-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>
+   <a href="https://drive.google.com/file/d/1gZuXMqEXUooIjnsWtt_0YRZnkfphwIj4/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/versionamento%20de%codigo-%23323330.svg?style=for-the-badge&logo=Color=%23F7DF1E" target="_blank"></a>   
 </div>
 
 </br>
