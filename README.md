@@ -6,13 +6,13 @@
 
 ### Sobre mim 📢
 
-💻 Sou desenvolvedora, exploradora de Front-end e Back-end.
-
 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade IMPACTA de Tecnologia
+
+💻 Exploradora de desenvolvimento Front-end e Back-end.
 
 🚀 Atualmente em transição de carreira para a área de Tecnologia, mas antes fui Bióloga e Naturopata.
 
-⏳ Em meu tempo livre gosto de viajar, estar com a família, amigos, e ouvir música.
+⏳ Em meu tempo livre gosto de viajar, estar com pessoas do bem, e ouvir boa música.
 
 </br>   
 
@@ -70,6 +70,6 @@
 
 ### Créditos 💡
 
-[Cubos Academy](https://cubos.academy) - [Alura](https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github) - [GitHub Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/) - [Oscar Junior](https://github.com/oscarlojr)
+[Cubos Academy](https://cubos.academy) - [Alura](https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github) - [GitHub Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/)
 
   
